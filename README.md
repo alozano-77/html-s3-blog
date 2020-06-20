@@ -38,7 +38,7 @@ To maintain a high SEO, I suggest you include the following files:
 
 - `favicon.ico` - [fiverr](https://www.fiverr.com) was great for this
 - `robots.txt` - Modified from [reddit](https://www.reddit.com/robots.txt)
-- `sitemap.xml` - Can be created [here](www.xml-sitemaps.com)
+- `sitemap.xml` - Can be created [here](https://www.xml-sitemaps.com)
 
 ## AWS Integration
 
